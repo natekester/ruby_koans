@@ -1,3 +1,14 @@
+= This is my journey to learn the language Ruby
+In general I love the idea of Koans to learn a language. This is just a repo 
+for me to track my progress with ruby as I find it a fun language. 
+I downloaded observr and added a watch.sh file so I don't have to keep running my tests over and over.
+
+$    gem install observr
+
+from repo root:
+
+$   sh watch.sh
+
 = Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
